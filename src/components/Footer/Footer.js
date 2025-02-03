@@ -1,0 +1,1 @@
+export { default } from '../Footer/Footer'; // Reexporta o Header

@@ -1,0 +1,1 @@
+export { default } from '../Contact/Contact'; // Reexporta o Header

@@ -1,0 +1,1 @@
+export { default } from '../About/About'; // Reexporta o Header

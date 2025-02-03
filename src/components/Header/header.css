@@ -1,0 +1,49 @@
+.header {
+    top: 0; /* Alinha ao topo da página */
+    left: 0; /* Alinha à esquerda da página */
+    right: 0; /* Alinha à direita da página */
+    border-radius: 20px 20px;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    margin-top: -20px;
+  }
+
+  .menu {
+    background-color:#e8898c;
+    border-radius: 20px 20px;
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    margin: -8px 10px;
+    font-size: 1.2em;
+  }
+  
+  nav a {
+    color: #000000;
+    text-decoration: none;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-image: url('../img/fundo.png.jpeg');
+    background-size: cover;
+    background-position: 65% 35%;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #313131;
+    padding: 20px;
+    overflow: auto;
+  }

@@ -1,0 +1,16 @@
+.contact {
+  border-radius: 20px 20px;
+  color: rgb(0, 0, 0);
+  padding: 20px;
+  text-align: center;
+  margin-top: 880px;
+  margin-left: 650px;
+  margin-bottom: 50px;
+  background-color: rgba(226, 184, 184, 0.5);
+  font-size: 1.2em;
+  width: 570px;
+  height: 140px;
+  left: 50%;
+  bottom: 20px;
+
+}
